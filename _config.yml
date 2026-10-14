@@ -55,7 +55,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :
+og_image                 : "profile.jpg"
 social:
   type                   :
   name                   :
@@ -70,12 +70,12 @@ analytics:
 # Site Author
 author:
   name             : "Wenjun (Richard) Yang"
-  avatar           : "images/profile.png"
-  bio              : "Ph.D. Candidate in Computer Science at University of Washington, specializing in Internet of Things, Distributed Systems, and Differential Privacy"
-  location         : "Tacoma, WA"
-  employer         :
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. Candidate in Computer Science at the University of Washington. Differential privacy, federated learning, and trustworthy LLM agents."
+  location         : "Washington, USA"
+  employer         : "University of Washington"
   pubmed           : 
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=-ePkDt4AAAAJ"
   email            : "richardyang0927@gmail.com"
   researchgate     :
   uri              :
@@ -91,7 +91,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "wenjunyang0927"
   orcid            :
   pinterest        :
   soundcloud       :

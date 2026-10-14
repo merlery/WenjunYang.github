@@ -7,74 +7,64 @@ author_profile: true
 
 {% include base_path %}
 
+Full list and citations on [Google Scholar](https://scholar.google.com/citations?user=-ePkDt4AAAAJ). The [CV (PDF)]({{ "/files/Wenjun_Yang_CV.pdf" | relative_url }}) has the same list.
+
 ## Journal Articles
 
-### 2025
+**MIC-DP: A Scalable Correlation-Aware Differential Privacy Framework for High-Dimensional Data**  
+**Wenjun Yang**, Eyhab Al-Masri, Olivera Kotevska  
+*IEEE Transactions on Privacy*, vol. 2, pp. 131–143, 2025  
+[DOI: 10.1109/TP.2025.3620376](https://doi.org/10.1109/TP.2025.3620376) · Code: `pip install mic-dp` ([PyPI](https://pypi.org/project/mic-dp/))
 
-**MIC-DP: Leveraging Mutual Information Coefficient for Correlated Differential Privacy Framework**  
-**Wenjun Yang**, Eyhab Al-Masri, Olga Kotevska  
-*IEEE Transactions on Privacy*, vol. 2, pp. 131-143, 2025  
-doi: [10.1109/TP.2025.3620376](https://doi.org/10.1109/TP.2025.3620376)
+**Energy-Efficient Cooperative Resource Allocation and Task Scheduling for Internet of Things Environments**  
+Eyhab Al-Masri, Alireza Souri, Habiba Mohamed, **Wenjun Yang**, James Olmsted, Olivera Kotevska  
+*Internet of Things*, vol. 23, Article 100832, 2023  
+[DOI: 10.1016/j.iot.2023.100832](https://doi.org/10.1016/j.iot.2023.100832)
 
-This work presents a novel differential privacy framework specifically designed for correlated data. By leveraging the Mutual Information Coefficient, MIC-DP provides enhanced privacy protection while maintaining data utility in networked and IoT environments.
+## Conference and Workshop Papers
 
----
+**Engineering Privacy at the Edge: A Practical Guide to Differential Privacy in System Architectures** (Tutorial paper)  
+Olivera Kotevska, **Wenjun Yang**, Eyhab Al-Masri  
+*2025 IEEE 43rd International Conference on Computer Design (ICCD)*, pp. 872–875, 2025  
+[DOI: 10.1109/ICCD65941.2025.00128](https://doi.org/10.1109/ICCD65941.2025.00128)
 
-### 2023
-
-**Energy-efficient cooperative resource allocation and task scheduling for Internet of Things environments**  
-Eyhab Al-Masri, Amin Souri, Hesham Mohamed, **Wenjun Yang**, James Olmsted, Olga Kotevska  
-*Internet of Things*, Volume 23, 2023, 100832  
-ISSN: 2542-6605  
-doi: [10.1016/j.iot.2023.100832](https://doi.org/10.1016/j.iot.2023.100832)
-
-This paper addresses the challenge of energy-efficient resource management in IoT environments, proposing cooperative algorithms for optimal task scheduling and resource allocation.
-
----
-
-## Conference Papers & Workshop Presentations
-
-### 2025
-
-**Democratizing Differential Privacy: A Participatory AI Framework for Public Decision-Making**  
+**Democratizing Differential Privacy: A Participatory AI Framework for Public Decision-Making** (Workshop paper)  
 **Wenjun Yang**, Eyhab Al-Masri  
-*2025 ACM CHI Workshop on Emerging Practices in Participatory AI Design in Public Sector Innovation*  
-arXiv: [2504.21297](https://arxiv.org/abs/2504.21297)
-
-This work explores how differential privacy can be made accessible to the public through participatory AI frameworks, enabling privacy-preserving public decision-making processes.
-
----
-
-### 2024
+*ACM CHI 2025 Workshop on Emerging Practices in Participatory AI Design in Public Sector Innovation*, Yokohama, Japan, 2025  
+[arXiv: 2504.21297](https://arxiv.org/abs/2504.21297)
 
 **ULDP: A User-Centric Local Differential Privacy Optimization Method**  
 **Wenjun Yang**, Eyhab Al-Masri  
-*2024 IEEE World AI IoT Congress (AIIoT)*, pp. 0316-0322, IEEE, 2024  
-doi: [10.1109/AIIoT58121.2024.10574722](https://doi.org/10.1109/AIIoT58121.2024.10574722)
-
-ULDP introduces a user-centric approach to local differential privacy, optimizing the privacy-utility trade-off by considering individual user preferences and data characteristics.
-
----
-
-### 2017
+*2024 IEEE World AI IoT Congress (AIIoT)*, pp. 316–322, 2024  
+[DOI: 10.1109/AIIoT61789.2024.10579023](https://doi.org/10.1109/AIIoT61789.2024.10579023)
 
 **High-Definition Video Image Mosaics in Real-Time Based on Adaptive H-SIFT**  
-Xin Han, Zhaorui Wang, **Wenjun Yang**  
-*2017 6th International Conference on Measurement, Instrumentation and Automation (ICMIA 2017)*  
-Atlantis Press, 2017
+Xiaowei Han, Zhiyong Wang, **Wenjun Yang**  
+*Proceedings of the 2017 6th International Conference on Measurement, Instrumentation and Automation (ICMIA 2017)*, pp. 744–747, Atlantis Press, 2017  
+[DOI: 10.2991/icmia-17.2017.134](https://doi.org/10.2991/icmia-17.2017.134)
 
-This paper presents an adaptive H-SIFT algorithm for real-time high-definition video image mosaicing, improving both speed and accuracy of image stitching applications.
+## Under Review
 
----
+**LDP-MIC: Correlation-Aware Local Differential Privacy for Federated Learning under Untrusted Aggregation**  
+**Wenjun Yang**, Eyhab Al-Masri, Olivera Kotevska  
+Under review at *IEEE Transactions on Information Forensics and Security*
 
-## Research Themes
+## In Preparation
 
-My research focuses on three interconnected areas:
+**When Rules Meet User Preferences: Evaluating and Verifying LLM Agents for Differential Privacy Configuration**  
+**Wenjun Yang**, Eyhab Al-Masri, Tianhao Wang  
+Target venue: IEEE Symposium on Security and Privacy (S&P) 2027
 
-1. **Differential Privacy for Correlated Data**: Developing frameworks that maintain privacy guarantees in datasets with complex interdependencies
-2. **Edge Computing for Privacy**: Leveraging distributed computing architectures to protect data at its source
-3. **Participatory AI**: Creating democratic and accessible privacy-preserving systems for public benefit
+## Posters
 
----
+**Secure Privacy-Budget Configuration for LLM-Powered Edge AI Systems**  
+**Wenjun Yang**, Eyhab Al-Masri, Olivera Kotevska  
+*35th USENIX Security Symposium*, Baltimore, MD, August 2026
 
-*For the most up-to-date list of publications, please visit my [Google Scholar profile](#) or contact me directly.*
+**ShadowBench-MCP: Measuring Shadow Invocations in MCP-Style Tool Routing**  
+Eyhab Al-Masri, **Wenjun Yang**  
+*35th USENIX Security Symposium*, Baltimore, MD, August 2026
+
+**Differential Privacy Meets Data Correlation: The MIC-DP Framework**  
+**Wenjun Yang**, Eyhab Al-Masri, Olivera Kotevska  
+*34th USENIX Security Symposium*, Seattle, WA, August 2025

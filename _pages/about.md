@@ -8,39 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at the University of Washington, Tacoma, with a strong focus on Internet of Things (IoT), Distributed Systems, and Differential Privacy. My research aims to develop advanced privacy-preserving frameworks that protect sensitive data while maintaining its utility for analysis and decision-making.
+I am a Ph.D. candidate in Computer Science at the University of Washington, advised by Dr. Eyhab Al-Masri. My research is on **privacy-preserving machine learning and trustworthy AI**: differential privacy (central and local), federated learning under untrusted aggregation, and secure, manipulation-resistant LLM agents for privacy configuration, with applications to edge and Internet of Things (IoT) systems. I collaborate with Dr. Olivera Kotevska at Oak Ridge National Laboratory and Dr. Tianhao Wang at the University of Virginia.
+
+My dissertation, *UCLDP: A User-Centric Local Differential Privacy Model*, brings together four lines of work: correlation-aware differential privacy (MIC-DP), its extension to federated learning (LDP-MIC), user-centric privacy-budget selection (ULDP), and a conversational agent that elicits users' privacy preferences (PrivAgent).
+
+I expect to complete my Ph.D. in **December 2026** and am looking for **research scientist, machine learning engineer, and postdoctoral** positions. [Download my CV (PDF)]({{ "/files/Wenjun_Yang_CV.pdf" | relative_url }}).
+
+## News
+
+- **Aug 2026**: Presented two posters at the 35th USENIX Security Symposium (Baltimore, MD), including my first-author poster on secure privacy-budget configuration for LLM-powered edge AI systems.
+- **Mar 2026**: Received the 2025–2026 Outstanding Graduate Research Award from the UW School of Engineering and Technology.
+- **2026**: LDP-MIC, on correlation-aware local differential privacy for federated learning, is under review at *IEEE Transactions on Information Forensics and Security*.
+- **Nov 2025**: Co-presented a tutorial on engineering differential privacy at the edge at IEEE ICCD 2025 (Richardson, TX).
+- **Aug 2025**: Presented the MIC-DP framework as a poster at the 34th USENIX Security Symposium (Seattle, WA).
+- **2025**: MIC-DP published in *IEEE Transactions on Privacy*; released as an open-source Python package (`pip install mic-dp`).
+- **Apr 2025**: Participatory AI framework for differential privacy presented at the ACM CHI 2025 Workshop on Emerging Practices in Participatory AI Design in Public Sector Innovation.
+- **May 2024**: Presented ULDP at the 2024 IEEE World AI IoT Congress (Seattle, WA).
 
 ## Research Interests
 
-My primary research focuses on **differential privacy for correlated data**, particularly in IoT and networked environments. I am developing novel approaches that leverage edge computing to safeguard data privacy at its origin while balancing the critical trade-off between privacy protection and data utility.
+- **Differential privacy**: correlation-aware mechanisms (MIC-DP), local differential privacy, and user-centric privacy-budget selection
+- **Federated learning**: defenses against gradient leakage without a trusted aggregator (LDP-MIC)
+- **Trustworthy LLM agents**: benchmarking and verifying LLM agents that configure privacy under adversarial user pressure
+- **Human-centered privacy**: participatory AI and conversational agents that elicit users' privacy preferences
 
-Key areas of expertise include:
-- **Differential Privacy**: Advanced frameworks for privacy-preserving data analysis
-- **Internet of Things**: Edge computing and distributed data processing
-- **Distributed Systems**: Scalable and efficient system architectures
-- **Participatory AI**: Democratic frameworks for public decision-making
+## Education
 
-## Current Research
-
-I am currently working on **CorrelaPriv**, an advanced differential privacy framework designed specifically for correlated data. This work has resulted in multiple publications, including:
-- A framework accepted in IEEE Transactions on Privacy
-- A participatory AI framework presented at the 2025 ACM CHI Workshop
-- An optimization method published at the 2024 IEEE AIIoT Congress
-
-## Academic Background
-
-I hold a Master's degree in Computer Science and Systems (GPA 3.72/4.0) and a Bachelor's degree in Automation Engineering from the University of Washington. Throughout my academic career, I have been recognized with multiple scholarships including the Graduates Merit Scholarship (2019, 2022, 2023) and the Carwein-Andrews Award (2024).
-
-## Recent Achievements
-
-- **First Prize** at the 2019 University of Washington Tacoma annual Hackathon for **StreetSmarter**, a navigation-based smart parking system
-- Multiple peer-reviewed publications in top-tier conferences and journals
-- Maintaining a strong academic record with a current GPA of 3.95/4.0
-
-## Beyond Research
-
-I am passionate about developing practical solutions to real-world problems. My work bridges the gap between theoretical research and practical applications, with a particular focus on making privacy-preserving technologies accessible and useful for society.
+- **Ph.D. in Computer Science**, University of Washington, 2021 – 2026 (expected)
+- **M.S. in Computer Science and Systems**, University of Washington, 2019
+- **B.Eng. in Automation**, Xi'an Jiaotong University, 2018
 
 ---
 
-*Feel free to explore my [publications](/publications/), learn more about my [research projects](/research/), or [get in touch](/contact/) if you'd like to collaborate or discuss my work.*
+*Explore my [publications]({{ "/publications/" | relative_url }}) and [research projects]({{ "/research/" | relative_url }}), or [get in touch]({{ "/contact/" | relative_url }}).*

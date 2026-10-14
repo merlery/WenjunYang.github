@@ -9,92 +9,92 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ "/files/Wenjun_Yang_CV.pdf" | relative_url }}" class="btn btn--primary">Download full CV (PDF)</a>
+
 ## Education
 
-**Ph.D. in Computer Science** | *March 2021 - Present*  
-University of Washington, Tacoma, WA
-- Current GPA: 3.95/4.0
-- Awards: Graduates Merit Scholarship (2022, 2023), Carwein-Andrews Award (2024)
-- Research Area: Internet of Things, Distributed Systems, Differential Privacy
+**Ph.D. in Computer Science**, University of Washington | *Mar 2021 – Dec 2026 (expected)*
 
-**M.S. in Computer Science and Systems** | *August 2018 - December 2019*  
-University of Washington, Tacoma, WA
-- GPA: 3.72/4.0
-- Award: Graduates Merit Scholarship (2019)
+- GPA: 3.98/4.0 · Advanced to candidacy: June 2024
+- Dissertation: *UCLDP: A User-Centric Local Differential Privacy Model*
+- Advisor: Dr. Eyhab Al-Masri
 
-**B.Eng. in Automation** | *August 2014 - June 2018*  
-University of Washington, Xi'an, China
+**M.S. in Computer Science and Systems**, University of Washington | *Aug 2018 – Dec 2019*
+
+- GPA: 3.76/4.0
+
+**B.Eng. in Automation**, Xi'an Jiaotong University | *Aug 2014 – Jun 2018*
+
 - GPA: 3.4/4.3
-- Awards: Undergraduate Scholarship (2014, 2016), Excellent Undergraduate Award (2014), Undergraduate Leader Award (2015)
-
----
 
 ## Research Experience
 
-**CorrelaPriv: Advanced Differential Privacy Framework for Correlated Data** | *September 2022 - Present*  
-Independent Work, Tacoma, WA
+**Doctoral Research**, University of Washington | *Sep 2022 – Present*  
+In collaboration with Oak Ridge National Laboratory (Dr. Olivera Kotevska)
 
-- Developed a novel differential privacy approach for numerical data using edge computing to safeguard data privacy at its origin
-- Implemented differential privacy in networked datasets while normalizing data to maintain privacy standards without compromising utility
-- Applied Laplace mechanism to inject controlled randomness, achieving optimal balance between privacy protection and data utility
-- Published research outcomes:
-  - MIC-DP framework accepted in IEEE Transactions on Privacy
-  - Participatory AI framework presented at 2025 ACM CHI Workshop
-  - ULDP optimization method published at 2024 IEEE AIIoT Congress
+- LLM agents for secure differential privacy configuration (with Dr. Tianhao Wang, University of Virginia)
+- LDP-MIC: correlation-aware local differential privacy for federated learning
+- MIC-DP: correlation-aware differential privacy (IEEE Transactions on Privacy, 2025)
+- Participatory AI and conversational agents for privacy decisions; ULDP privacy-budget optimization
 
-**StreetSmarter - A Navigation based Smart Parking System** | *April 2019 - June 2019*  
-Group Leader, Tacoma, WA
+**Research Collaboration with Microsoft (Dr. Minjia Zhang)** | *Sep 2021 – Jun 2022*  
+MigrationRouter: reinforcement-learning-based service migration for edge computing
 
-- Won 1st prize at 2019 University of Washington Tacoma annual Hackathon sponsored and judged by Microsoft Azure Team
-- Architected smart parking system providing navigation to nearest available parking spot
-- Engineered back-end using Python Flask and SQLite; integrated Raspberry Pi, sensors, and IBM Watson cloud server
+Details on the [Research]({{ "/research/" | relative_url }}) page; papers on the [Publications]({{ "/publications/" | relative_url }}) page.
 
----
+## Teaching Experience
+
+**Graduate Teaching Assistant**, University of Washington | *2025*
+
+- TCSS 573: Internet of Things (Winter 2025)
+- TCSS 360: Software Development and Quality Assurance Techniques (Spring 2025)
+- TCSS 445: Database Systems Design (Autumn 2025)
+- Guest lectures in TCSS 559 (Mar 2025) and TCSS 360 (May 2025); built hands-on tutorials for TCSS 360, TCSS 559, and TCSS 573
+
+**Grader**, University of Washington | *2019 – 2024*
+
+- TCSS 573: Internet of Things (Winter 2022, 2023, 2024)
+- TCSS 559: Service Computing (Autumn 2021, 2022, 2024)
+- TCSS 445: Database Systems Design (Spring 2024)
+- TCSS 460: Client/Server Programming for Internet Applications (Summer 2019, 2021, 2022)
+
+## Presentations
+
+- **Aug 2026**: Two posters, 35th USENIX Security Symposium, Baltimore, MD
+- **May 2026, Mar 2025, Mar 2024**: Research Showcase presentations, University of Washington
+- **Nov 2025**: Tutorial (co-presenter), *Engineering privacy at the edge*, IEEE ICCD 2025, Richardson, TX
+- **Aug 2025**: Poster, *Differential privacy meets data correlation: The MIC-DP framework*, 34th USENIX Security Symposium, Seattle, WA
+- **Mar 2025**: Research talk (guest lecture), TCSS 559 Service Computing, University of Washington
+- **May 2024**: Paper presentation, *ULDP*, 2024 IEEE World AI IoT Congress (AIIoT), Seattle, WA
+
+## Honors and Awards
+
+- Outstanding Graduate Research Award, UW School of Engineering and Technology (2025–2026)
+- Carwein-Andrews Award, University of Washington (2024)
+- Graduates Merit Scholarship, University of Washington (2019, 2022, 2023)
+- First Prize, University of Washington Hackathon, judged by the Microsoft Azure team (2019)
+- Undergraduate Leader Award, Xi'an Jiaotong University (2015)
+- Excellent Undergraduate Award, Xi'an Jiaotong University (2014)
+- Undergraduate Scholarship, Xi'an Jiaotong University (2014, 2016)
+
+## Mentoring and Leadership
+
+- President, Peer Mentorship Association, Xi'an Jiaotong University (department level): mentored 100+ students (2015 – 2017)
+- Team lead (team of 4), StreetSmarter IoT smart parking system; First Prize at the University of Washington Hackathon (2019)
+
+## Professional Service and Memberships
+
+- Reviewer, *Internet of Things and Cloud Computing* (2025 – 2026)
+- Student Member, IEEE
 
 ## Professional Experience
 
-**Software Engineer Intern** | *June 2018 - August 2018*  
-Neusoft Corporation, Shenyang, China
+**Software Engineer Intern**, Neusoft Corporation, Shenyang, China | *Jun 2018 – Aug 2018*
 
-- Contributed to government procurement system for one of China's leading IT solution and service providers
-- Designed and created database, performed data cleaning, established data storage structure, and participated in front-end development
-
----
-
-## Publications
-
-### Journal Articles
-
-1. **W. Yang**, E. Al-Masri and O. Kotevska, "MIC-DP: Leveraging Mutual Information Coefficient for Correlated Differential Privacy Framework", *IEEE Transactions on Privacy*, vol. 2, pp. 131-143, 2025, doi: 10.1109/TP.2025.3620376
-
-2. E. Al-Masri, A. Souri, H. Mohamed, **W. Yang**, J. Olmsted, O. Kotevska, "Energy-efficient cooperative resource allocation and task scheduling for Internet of Things environments", *Internet of Things*, Volume 23, 2023, 100832, ISSN 2542-6605
-
-### Conference Papers & Workshops
-
-3. **W. Yang**, and E. Al-Masri, "Democratizing Differential Privacy: A Participatory AI Framework for Public Decision-Making", *2025 ACM CHI Workshop Emerging Practices in Participatory AI Design in Public Sector Innovation*, https://arxiv.org/abs/2504.21297
-
-4. **W. Yang**, and E. Al-Masri, "ULDP: A User-Centric Local Differential Privacy Optimization Method", *2024 IEEE World AI IoT Congress (AIIoT)*, pp. 0316-0322, IEEE, 2024
-
-5. X. Han, Z. Wang, **W. Yang**, "High-Definition Video Image Mosaics in Real-Time Based on Adaptive H-SIFT", *2017 6th International Conference Measurement, Instrumentation and Automation (ICMIA 2017)*, Atlantis Press, 2017
-
----
+- Built the data layer of a government procurement platform: designed the database schema and storage structure, cleaned data, and contributed to front-end development.
 
 ## Skills
 
-**Programming Languages**: Python, Java, C++, JavaScript, SQL  
-**Frameworks & Tools**: Flask, SQLite, TensorFlow, PyTorch  
-**Hardware**: Raspberry Pi, IoT sensors, embedded systems  
-**Cloud Platforms**: IBM Watson, Azure  
-**Research Methods**: Differential Privacy, Machine Learning, Data Analysis, Distributed Computing
-
----
-
-## Contact Information
-
-**Email**: richardyang0927@gmail.com  
-**Phone**: 206-476-8359  
-**Address**: 2715 62ND Ave E Apt D32, Fife, WA 98424, USA
-
----
-
-[Download Full CV (PDF)](/files/WenjunYang_Resume.pdf)
+- **Privacy and security**: differential privacy (central/local, DP-SGD), federated learning, privacy attacks and defenses (gradient leakage), LLM red-teaming and guardrails, Opacus
+- **Machine learning**: PyTorch, reinforcement learning (Q-learning), LLM agents and evaluation, LLM APIs (OpenAI, Anthropic, OpenRouter)
+- **Engineering**: Python, NumPy, pandas, Git, unit testing, statistical testing, SQL, Google BigQuery, Flask, HPC (ORNL Frontier, AMD ROCm), NVIDIA CUDA, LaTeX
