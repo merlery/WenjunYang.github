@@ -13,23 +13,23 @@ redirect_from:
 
 ## Education
 
-**Ph.D. in Computer Science**, University of Washington | *Mar 2021 – Dec 2026 (expected)*
+**Ph.D. in Computer Science**, University of Washington · *Mar 2021 – Dec 2026 (expected)*
 
 - GPA: 3.98/4.0 · Advanced to candidacy: June 2024
 - Dissertation: *UCLDP: A User-Centric Local Differential Privacy Model*
 - Advisor: Dr. Eyhab Al-Masri
 
-**M.S. in Computer Science and Systems**, University of Washington | *Aug 2018 – Dec 2019*
+**M.S. in Computer Science and Systems**, University of Washington · *Aug 2018 – Dec 2019*
 
 - GPA: 3.76/4.0
 
-**B.Eng. in Automation**, Xi'an Jiaotong University | *Aug 2014 – Jun 2018*
+**B.Eng. in Automation**, Xi'an Jiaotong University · *Aug 2014 – Jun 2018*
 
 - GPA: 3.4/4.3
 
 ## Research Experience
 
-**Doctoral Research**, University of Washington | *Sep 2022 – Present*  
+**Doctoral Research**, University of Washington · *Sep 2022 – Present*  
 In collaboration with Oak Ridge National Laboratory (Dr. Olivera Kotevska)
 
 - LLM agents for secure differential privacy configuration (with Dr. Tianhao Wang, University of Virginia)
@@ -37,21 +37,21 @@ In collaboration with Oak Ridge National Laboratory (Dr. Olivera Kotevska)
 - MIC-DP: correlation-aware differential privacy (IEEE Transactions on Privacy, 2025)
 - Participatory AI and conversational agents for privacy decisions; ULDP privacy-budget optimization
 
-**Research Collaboration with Microsoft (Dr. Minjia Zhang)** | *Sep 2021 – Jun 2022*  
+**Research Collaboration with Microsoft (Dr. Minjia Zhang)** · *Sep 2021 – Jun 2022*  
 MigrationRouter: reinforcement-learning-based service migration for edge computing
 
 Details on the [Research]({{ "/research/" | relative_url }}) page; papers on the [Publications]({{ "/publications/" | relative_url }}) page.
 
 ## Teaching Experience
 
-**Graduate Teaching Assistant**, University of Washington | *2025*
+**Graduate Teaching Assistant**, University of Washington · *2025*
 
 - TCSS 573: Internet of Things (Winter 2025)
 - TCSS 360: Software Development and Quality Assurance Techniques (Spring 2025)
 - TCSS 445: Database Systems Design (Autumn 2025)
 - Guest lectures in TCSS 559 (Mar 2025) and TCSS 360 (May 2025); built hands-on tutorials for TCSS 360, TCSS 559, and TCSS 573
 
-**Grader**, University of Washington | *2019 – 2024*
+**Grader**, University of Washington · *2019 – 2024*
 
 - TCSS 573: Internet of Things (Winter 2022, 2023, 2024)
 - TCSS 559: Service Computing (Autumn 2021, 2022, 2024)
@@ -89,7 +89,7 @@ Details on the [Research]({{ "/research/" | relative_url }}) page; papers on the
 
 ## Professional Experience
 
-**Software Engineer Intern**, Neusoft Corporation, Shenyang, China | *Jun 2018 – Aug 2018*
+**Software Engineer Intern**, Neusoft Corporation, Shenyang, China · *Jun 2018 – Aug 2018*
 
 - Built the data layer of a government procurement platform: designed the database schema and storage structure, cleaned data, and contributed to front-end development.
 

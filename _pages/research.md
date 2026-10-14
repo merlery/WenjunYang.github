@@ -9,7 +9,7 @@ author_profile: true
 
 ## Doctoral Research: User-Centric Local Differential Privacy
 
-**September 2022 – Present** | University of Washington  
+**September 2022 – Present** · University of Washington  
 Advisor: Dr. Eyhab Al-Masri · In collaboration with Oak Ridge National Laboratory (Dr. Olivera Kotevska)
 
 ### LLM Agents for Secure Differential Privacy Configuration
@@ -49,7 +49,7 @@ Advisor: Dr. Eyhab Al-Masri · In collaboration with Oak Ridge National Laborato
 
 ## Research Collaboration with Microsoft: MigrationRouter
 
-**September 2021 – June 2022** | Ph.D. research project with Dr. Minjia Zhang (Microsoft)
+**September 2021 – June 2022** · Ph.D. research project with Dr. Minjia Zhang (Microsoft)
 
 - Built MigrationRouter, a reinforcement learning (Q-learning) agent that routes compute tasks across edge base stations, with an MDP formulation and a reward that trades off computational cost (CPU cycles) against migration cost (distance).
 - Trained on Microsoft's Philly GPU-cluster traces: cleaned 117K DNN-training jobs to 102,666, joined them with real base-station locations, and processed the data in Google BigQuery.
@@ -60,7 +60,7 @@ Advisor: Dr. Eyhab Al-Masri · In collaboration with Oak Ridge National Laborato
 ## Earlier Projects
 
 ### StreetSmarter: IoT Smart Parking System
-**2019** | Team lead (team of 4) · First Prize, University of Washington Hackathon (judged by the Microsoft Azure team)
+**2019** · Team lead (team of 4) · First Prize, University of Washington Hackathon (judged by the Microsoft Azure team)
 
 - An end-to-end IoT system that routes drivers to open parking spots: Raspberry Pi sensors, a Python (Flask) and SQLite back end, and IBM Watson cloud.
 - Owned the system architecture, split the work across hardware, back-end, and cloud tracks, and led the final pitch.
